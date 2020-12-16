@@ -1,0 +1,692 @@
+[
+  {
+    "title": "WEEK 1",
+    "data": [
+      {
+        "weekNum": "1",
+        "dayLabel": "Monday",
+        "meals": {
+          "breakfast": ["5"],
+          "lunch": ["1", "3"],
+          "snack": [],
+          "dinner": [],
+          "supper": ["4"]
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      },
+      {
+        "weekNum": "1",
+        "dayLabel": "Tuesday",
+        "meals": {
+          "breakfast": [],
+          "lunch": ["4"],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      },
+      {
+        "weekNum": "1",
+        "dayLabel": "Wednesday",
+        "meals": {
+          "breakfast": [],
+          "lunch": ["4"],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      },
+      {
+        "weekNum": "1",
+        "dayLabel": "Thursday",
+        "meals": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": ["6"],
+          "dinner": [],
+          "supper": ["4"]
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      },
+      {
+        "weekNum": "1",
+        "dayLabel": "Friday",
+        "meals": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": ["4"]
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      },
+      {
+        "weekNum": "1",
+        "dayLabel": "Saturday",
+        "meals": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": ["4"]
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      },
+      {
+        "weekNum": "1",
+        "dayLabel": "Sunday",
+        "meals": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": ["4"]
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "title": "WEEK 2",
+    "data": [
+      {
+        "weekNum": "2",
+        "dayLabel": "Monday",
+        "meals": {
+          "breakfast": ["3"],
+          "lunch": ["3", "6"],
+          "snack": ["6"],
+          "dinner": ["1", "2"],
+          "supper": []
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      },
+      {
+        "weekNum": "2",
+        "dayLabel": "Tuesday",
+        "meals": {
+          "breakfast": ["0", "2", "3"],
+          "lunch": ["3", "6", "4"],
+          "snack": ["6", "5", "1"],
+          "dinner": ["1", "2", "6"],
+          "supper": ["1", "5", "4"]
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      },
+      {
+        "weekNum": "2",
+        "dayLabel": "Wednesday",
+        "meals": {
+          "breakfast": ["0", "2", "3"],
+          "lunch": ["3", "6", "4"],
+          "snack": ["6", "5", "1"],
+          "dinner": ["1", "2", "6"],
+          "supper": ["1", "5", "4"]
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      },
+      {
+        "weekNum": "2",
+        "dayLabel": "Thursday",
+        "meals": {
+          "breakfast": ["0", "2", "3"],
+          "lunch": ["3", "6", "4"],
+          "snack": ["6", "5", "1"],
+          "dinner": ["1", "2", "6"],
+          "supper": ["1", "5", "4"]
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      },
+      {
+        "weekNum": "2",
+        "dayLabel": "Friday",
+        "meals": {
+          "breakfast": ["0", "2", "3"],
+          "lunch": ["3", "6", "4"],
+          "snack": ["6", "5", "1"],
+          "dinner": ["1", "2", "6"],
+          "supper": ["1", "5", "4"]
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      },
+      {
+        "weekNum": "2",
+        "dayLabel": "Saturday",
+        "meals": {
+          "breakfast": ["0", "2", "3"],
+          "lunch": ["3", "6", "4"],
+          "snack": ["6", "5", "1"],
+          "dinner": ["1", "2", "6"],
+          "supper": ["1", "5", "4"]
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      },
+      {
+        "weekNum": "2",
+        "dayLabel": "Sunday",
+        "meals": {
+          "breakfast": ["0", "2", "3"],
+          "lunch": ["3", "6", "4"],
+          "snack": ["6", "5", "1"],
+          "dinner": ["1", "2", "6"],
+          "supper": ["1", "5", "4"]
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "title": "WEEK 3",
+    "data": [
+      {
+        "weekNum": "3",
+        "dayLabel": "Monday",
+        "meals": {
+          "breakfast": ["0", "2", "3"],
+          "lunch": ["3", "6", "4"],
+          "snack": ["6", "5", "1"],
+          "dinner": ["1", "2", "6"],
+          "supper": ["1", "5", "4"]
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      },
+      {
+        "weekNum": "3",
+        "dayLabel": "Tuesday",
+        "meals": {
+          "breakfast": ["0", "2", "3"],
+          "lunch": ["3", "6", "4"],
+          "snack": ["6", "5", "1"],
+          "dinner": ["1", "2", "6"],
+          "supper": ["1", "5", "4"]
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      },
+      {
+        "weekNum": "3",
+        "dayLabel": "Wednesday",
+        "meals": {
+          "breakfast": ["0", "2", "3"],
+          "lunch": ["3", "6", "4"],
+          "snack": ["6", "5", "1"],
+          "dinner": ["1", "2", "6"],
+          "supper": ["1", "5", "4"]
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      },
+      {
+        "weekNum": "3",
+        "dayLabel": "Thursday",
+        "meals": {
+          "breakfast": ["0", "2", "3"],
+          "lunch": ["3", "6", "4"],
+          "snack": ["6", "5", "1"],
+          "dinner": ["1", "2", "6"],
+          "supper": ["1", "5", "4"]
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      },
+      {
+        "weekNum": "3",
+        "dayLabel": "Friday",
+        "meals": {
+          "breakfast": ["0", "2", "3"],
+          "lunch": ["3", "6", "4"],
+          "snack": ["6", "5", "1"],
+          "dinner": ["1", "2", "6"],
+          "supper": ["1", "5", "4"]
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      },
+      {
+        "weekNum": 3,
+        "dayLabel": "Saturday",
+        "meals": {
+          "breakfast": ["0", "2", "3"],
+          "lunch": ["3", "6", "4"],
+          "snack": ["6", "5", "1"],
+          "dinner": ["1", "2", "6"],
+          "supper": ["1", "5", "4"]
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      },
+      {
+        "weekNum": "3",
+        "dayLabel": "Sunday",
+        "meals": {
+          "breakfast": ["0", "2", "3"],
+          "lunch": ["3", "6", "4"],
+          "snack": ["6", "5", "1"],
+          "dinner": ["1", "2", "6"],
+          "supper": ["1", "5", "4"]
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "title": "WEEK 4",
+    "data": [
+      {
+        "weekNum": "4",
+        "dayLabel": "Monday",
+        "meals": {
+          "breakfast": ["0", "2", "3"],
+          "lunch": ["3", "6", "4"],
+          "snack": ["6", "5", "1"],
+          "dinner": ["1", "2", "6"],
+          "supper": ["1", "5", "4"]
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      },
+      {
+        "weekNum": "4",
+        "dayLabel": "Tuesday",
+        "meals": {
+          "breakfast": ["0", "2", "3"],
+          "lunch": ["3", "6", "4"],
+          "snack": ["6", "5", "1"],
+          "dinner": ["1", "2", "6"],
+          "supper": ["1", "5", "4"]
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      },
+      {
+        "weekNum": "4",
+        "dayLabel": "Wednesday",
+        "meals": {
+          "breakfast": ["0", "2", "3"],
+          "lunch": ["3", "6", "4"],
+          "snack": ["6", "5", "1"],
+          "dinner": ["1", "2", "6"],
+          "supper": ["1", "5", "4"]
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      },
+      {
+        "weekNum": "4",
+        "dayLabel": "Thursday",
+        "meals": {
+          "breakfast": ["0", "2", "3"],
+          "lunch": ["3", "6", "4"],
+          "snack": ["6", "5", "1"],
+          "dinner": ["1", "2", "6"],
+          "supper": ["1", "5", "4"]
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      },
+      {
+        "weekNum": "4",
+        "dayLabel": "Friday",
+        "meals": {
+          "breakfast": ["0", "2", "3"],
+          "lunch": ["3", "6", "4"],
+          "snack": ["6", "5", "1"],
+          "dinner": ["1", "2", "6"],
+          "supper": ["1", "5", "4"]
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      },
+      {
+        "weekNum": "4",
+        "dayLabel": "Saturday",
+        "meals": {
+          "breakfast": ["0", "2", "3"],
+          "lunch": ["3", "6", "4"],
+          "snack": ["6", "5", "1"],
+          "dinner": ["1", "2", "6"],
+          "supper": ["1", "5", "4"]
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      },
+      {
+        "weekNum": "4",
+        "dayLabel": "Sunday",
+        "meals": {
+          "breakfast": ["0", "2", "3"],
+          "lunch": ["3", "6", "4"],
+          "snack": ["6", "5", "1"],
+          "dinner": ["1", "2", "6"],
+          "supper": ["1", "5"]
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "title": "WEEK 5",
+    "data": [
+      {
+        "weekNum": "5",
+        "dayLabel": "Monday",
+        "meals": {
+          "breakfast": ["0", "2", "3"],
+          "lunch": ["3", "6", "4"],
+          "snack": ["6", "5", "1"],
+          "dinner": ["1", "2", "6"],
+          "supper": ["1"]
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      },
+      {
+        "weekNum": "5",
+        "dayLabel": "Tuesday",
+        "meals": {
+          "breakfast": ["0", "2", "3"],
+          "lunch": ["3", "6", "4"],
+          "snack": ["6", "5", "1"],
+          "dinner": ["1", "2", "6"],
+          "supper": ["1", "5", "4"]
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      },
+      {
+        "weekNum": "5",
+        "dayLabel": "Wednesday",
+        "meals": {
+          "breakfast": ["0", "2", "3"],
+          "lunch": ["3", "6", "4"],
+          "snack": ["6", "5", "1"],
+          "dinner": ["1", "2", "6"],
+          "supper": ["1", "5", "4"]
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      },
+      {
+        "weekNum": "5",
+        "dayLabel": "Thursday",
+        "meals": {
+          "breakfast": ["0", "2", "3"],
+          "lunch": ["3", "6", "4"],
+          "snack": ["6", "5", "1"],
+          "dinner": ["1", "2", "6"],
+          "supper": ["1", "5", "4"]
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      },
+      {
+        "weekNum": "5",
+        "dayLabel": "Friday",
+        "meals": {
+          "breakfast": ["0", "2", "3"],
+          "lunch": ["3", "6", "4"],
+          "snack": ["6", "5", "1"],
+          "dinner": ["1", "2", "6"],
+          "supper": ["1", "5", "4"]
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      },
+      {
+        "weekNum": "5",
+        "dayLabel": "Saturday",
+        "meals": {
+          "breakfast": ["0", "2", "3"],
+          "lunch": ["3", "6", "4"],
+          "snack": ["6", "5", "1"],
+          "dinner": ["1", "2", "6"],
+          "supper": ["1", "5", "4"]
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      },
+      {
+        "weekNum": "5",
+        "dayLabel": "Sunday",
+        "meals": {
+          "breakfast": ["0", "2", "3"],
+          "lunch": ["3", "6", "4"],
+          "snack": ["6", "5", "1"],
+          "dinner": ["1", "2", "6"],
+          "supper": ["1", "5", "4"]
+        },
+        "mealSelection": {
+          "breakfast": [],
+          "lunch": [],
+          "snack": [],
+          "dinner": [],
+          "supper": []
+        },
+        "isSelected": false
+      }
+    ]
+  }
+]

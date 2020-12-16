@@ -1,0 +1,93 @@
+[
+  {
+    "id": "0",
+    "title": "Shrimp Garlic Fried Rice",
+    "uri": "https://www.youtube.com/embed/5XklMLpmDRs",
+    "img": "https://img.youtube.com/vi/5XklMLpmDRs/0.jpg",
+    "recipeIngredient": [
+      {"name": "Salt", "quantity": "1/4", "unit": "teaspoon"},
+      {"name": "Lemon Juice", "quantity": "1", "unit": "tablespoon"}
+    ]
+  },
+  {
+    "id": "1",
+    "title": "Soybean Paste Stew",
+    "uri": "https://www.youtube.com/embed/KUAv8VPnpFI",
+    "img": "https://img.youtube.com/vi/KUAv8VPnpFI/0.jpg",
+    "recipeIngredient": [
+      {"name": "All-Purpose Flour", "quantity": "2", "unit": "tablespoon"},
+      {"name": "Ground Cinnamon", "quantity": "3/4", "unit": "teaspoon"},
+      {"name": "Thinly Sliced, Peeled Apples", "quantity": "6", "unit": "cups"}
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Perfect Peas",
+    "uri": "https://www.youtube.com/embed/yQymizArUcQ",
+    "img": "https://img.youtube.com/vi/yQymizArUcQ/0.jpg",
+    "recipeIngredient": [
+      {"name": "Lemon Juice", "quantity": "1", "unit": "tablespoon"},
+      {"name": "Thinly Sliced, Peeled Apples", "quantity": "6", "unit": "cups"},
+      {"name": "Heads Cauliflower", "quantity": "2", "unit": "large"},
+      {"name": "Chicken Stock", "quantity": "3", "unit": "cup"}
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Egg Fried Rice",
+    "uri": "https://www.youtube.com/embed/KM-E4KpoLFU",
+    "img": "https://img.youtube.com/vi/KM-E4KpoLFU/0.jpg",
+    "recipeIngredient": [
+      {"name": "Salt", "quantity": "1/4", "unit": "teaspoon"},
+      {"name": "Lemon Juice", "quantity": "1", "unit": "tablespoon"},
+      {"name": "All-Purpose Flour", "quantity": "2", "unit": "tablespoon"},
+      {"name": "Ground Cinnamon", "quantity": "3/4", "unit": "teaspoon"}
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Kung Pao Chicken",
+    "uri": "https://www.youtube.com/embed/1A8mdG-dcPM",
+    "img": "https://img.youtube.com/vi/1A8mdG-dcPM/0.jpg",
+    "recipeIngredient": [
+      {"name": "Ground Cinnamon", "quantity": "3/4", "unit": "teaspoon"},
+      {"name": "Thinly Sliced, Peeled Apples", "quantity": "6", "unit": "cups"},
+      {"name": "Chicken Stock", "quantity": "3", "unit": "cup"}
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Bacon Pumpkin Gnocchi Soup",
+    "uri": "https://www.youtube.com/embed/dpLmfbgk8VE",
+    "img": "https://img.youtube.com/vi/dpLmfbgk8VE/0.jpg",
+    "recipeIngredient": [
+      {"name": "Salt", "quantity": "1/4", "unit": "teaspoon"},
+      {"name": "All-Purpose Flour", "quantity": "2", "unit": "tablespoon"},
+      {"name": "Thinly Sliced, Peeled Apples", "quantity": "6", "unit": "cups"},
+      {"name": "Short-Grain Brown Rice", "quantity": "250", "unit": "gram"}
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Black Sesame Ice Cream",
+    "uri": "https://www.youtube.com/embed/V8syPEJlcy4",
+    "img": "https://img.youtube.com/vi/V8syPEJlcy4/0.jpg",
+    "recipeIngredient": [
+      {"name": "Thinly Sliced, Peeled Apples", "quantity": "6", "unit": "cups"},
+      {"name": "Heads Cauliflower", "quantity": "2", "unit": "large"},
+      {"name": "Short-Grain Brown Rice", "quantity": "250", "unit": "gram"},
+      {"name": "Chicken Stock", "quantity": "3", "unit": "cup"}
+    ]
+  },
+  {
+    "id": "7",
+    "title": "How To Cook Perfect Eggs Every Time",
+    "uri": "https://www.youtube.com/embed/X5oD_thIk3c",
+    "img": "https://img.youtube.com/vi/X5oD_thIk3c/0.jpg",
+    "recipeIngredient": [
+      {"name": "All-Purpose Flour", "quantity": "2", "unit": "tablespoon"},
+      {"name": "Ground Cinnamon", "quantity": "3/4", "unit": "teaspoon"},
+      {"name": "Thinly Sliced, Peeled Apples", "quantity": "6", "unit": "cups"}
+    ]
+  }
+]
